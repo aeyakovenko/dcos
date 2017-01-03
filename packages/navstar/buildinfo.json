@@ -4,8 +4,8 @@
     "navstar": {
       "kind": "git",
       "git": "https://github.com/dcos/navstar.git",
-      "ref": "52d6c144b334e23faa6237c1e06dbd125272f6c3",
-      "ref_origin": "master"
+      "ref": "11438c434d1a3f71b94cd27ac290aa0804857a23",
+      "ref_origin": "dcos-transport-encryption"
     }
   }
 }
